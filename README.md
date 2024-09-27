@@ -1,17 +1,18 @@
 - 👋 Hi, I’m @shivam-3301
-- 👀 I’m interested in ...
+- 👀 I’m interested in Full Stack Web Development, Data Science and Machine Learning, Collaborative projects and Open Source contributions, and Exploring new technologies and frameworks
 - 🌱 I’m currently learning Full Stack Development and Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate with Companies and Developers
+- 📫 How to reach me:Email:[shivamchaubey3301@gmail.com ](mailto:shivamchaubey3301@gmail.com)
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/shivam-chaubey-2a52622b9/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Everyone sees the world through different shapes!
 
 <!---
 shivam-3301/shivam-3301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-🔭 I’m currently working on Web Development projects<br>👯 I’m looking to collaborate on Companies<br>🤝 I’m looking for help with Developers<br>🌱 I’m currently learning Data Science<br>💬 Ask me about my life<br>⚡ Fun fact: Everyone has Shapes
+👨‍💻 I'm currently working on Web Development projects<br>🚀 Looking to collaborate with companies and developers <br>🌱 Continuously learning and expanding my skills in Data Science<br>💬 Feel free to ask me about my journey and experiences<br>⚡ Fun fact: Everyone sees the world through different shapes!
 
 
 ## 🌐 Socials:
